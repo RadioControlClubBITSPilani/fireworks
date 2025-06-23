@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "6ch_receiver")(type "KiCad")(uri "${KIPRJMOD}/6ch_receiver.kicad_sym")(options "")(descr ""))
+)
