@@ -3896,6 +3896,17 @@
 		)
 		(uuid "0392d3ab-db7e-4318-a690-495cb7bd049a")
 	)
+	(text "6_Channel_Receiver\n"
+		(exclude_from_sim no)
+		(at 114.554 159.766 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(color 0 77 0 1)
+			)
+		)
+		(uuid "0b14926c-07f1-4345-bb16-79c16b24ae3c")
+	)
 	(text "INPUT HEADER"
 		(exclude_from_sim no)
 		(at 99.695 110.49 0)
